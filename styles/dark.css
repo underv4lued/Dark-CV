@@ -1,0 +1,33 @@
+body
+{
+    color: white;
+    background: #111;
+}
+
+.header
+{
+    color: white;
+    background: #111;
+}
+
+.nav__item
+{
+    color: white;
+    background: #111;
+}
+
+.nav__item:hover, .nav__item_active
+{
+
+    color: grey;
+}
+
+.theme-button
+{
+    color: white;
+}
+
+.theme-button:hover
+{
+    color: grey;
+}
